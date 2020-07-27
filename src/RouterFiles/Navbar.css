@@ -1,0 +1,10 @@
+.nav-link:hover {
+    border-color:black;
+    color:brown;
+    margin-right:5px;
+    }
+    .nav-styles
+    {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight:bolder;
+    }
